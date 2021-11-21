@@ -1,0 +1,11 @@
+{
+  "name": "rtc-server",
+  "version": "0.0.1",
+  "description": "rtc-server",
+  "main": "server.js",
+  "author": "Glenn Alon",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}

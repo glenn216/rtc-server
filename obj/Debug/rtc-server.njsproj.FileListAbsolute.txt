@@ -1,0 +1,2 @@
+C:\Users\glenn\source\repos\RTC\rtc-server\obj\Debug\rtc-server.njsproj.CoreCompileInputs.cache
+C:\Users\glenn\source\repos\RTC\rtc-server\bin\Microsoft.NodejsTools.WebRole.dll
